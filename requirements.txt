@@ -1,0 +1,12 @@
+streamlit
+pytesseract
+pdf2image
+Pillow
+indic-transliteration
+langdetect
+fastapi
+uvicorn
+python-multipart
+flask
+python-magic
+tqdm
